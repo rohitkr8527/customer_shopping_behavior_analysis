@@ -1,7 +1,6 @@
 # Customer Shopping Behavior Analysis
 
-**End-to-End Data Analytics Project** |  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" height="40"/> <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" height="40"/>   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" height="40"/>
-
+**End-to-End Data Analytics Project** |  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" height="40"/> | <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" height="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" height="40"/>
 
 
 ---
@@ -64,7 +63,7 @@ To answer the key question:
    * Behavioral trend identification
    * Validation of assumptions for downstream analysis
 
-3. **SQL Analysis (MySQL/PostgreSQL)**
+3. **SQL Analysis**
 
    * Revenue analysis by demographics
    * Discount behavior and dependency analysis
@@ -78,6 +77,9 @@ To answer the key question:
    * Revenue and sales by category and age group
    * Subscription and loyalty insights
    * Interactive slicers for stakeholder exploration
+    ![Power BI Dashboard Screenshot](cutomer_behavior_dashboard_png.png)
+
+(Dashboard file: `customer_behavior_dashboard.pbix`)
 
 5. **Reporting & Business Recommendations**
 
@@ -86,18 +88,6 @@ To answer the key question:
 
 ---
 
-## Power BI Dashboard
-
-The interactive dashboard enables stakeholders to:
-
-* Monitor key performance indicators
-* Compare customer segments
-* Identify high-revenue products and demographics
-* Analyze subscription and loyalty behavior
-
-(Dashboard file: `customer_behavior_dashboard.pbix`)
-
----
 
 ## Key Insights
 
@@ -123,7 +113,7 @@ The interactive dashboard enables stakeholders to:
 
 ```
 ├── shopping_behavior_analysis.ipynb   # Python EDA and preprocessing
-├── sql_queries/                       # SQL analysis queries
+├── customer_behavior_sql_queries.sql  # SQL analysis queries
 ├── customer_behavior_dashboard.pbix   # Power BI dashboard
 ├── Customer_Shopping_Behavior_Report.pdf
 ├── Business_Problem.pdf
