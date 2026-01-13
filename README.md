@@ -132,7 +132,3 @@ To answer the key question:
 
 ---
 
-## Author
-
-**Rohit**
-Aspiring Data Scientist / Data Analyst
