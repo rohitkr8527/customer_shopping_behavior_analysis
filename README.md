@@ -1,6 +1,6 @@
 # Customer Shopping Behavior Analysis
 
-End-to-End Data Analytics Project | Python · SQL · Power BI
+End-to-End Data Analytics Project | <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" height="40"/> <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" height="40"/>   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" height="40"/>
 
 <p align="left">
   <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" height="40"/>
